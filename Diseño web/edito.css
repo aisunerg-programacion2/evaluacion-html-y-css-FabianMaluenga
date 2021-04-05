@@ -1,0 +1,45 @@
+*{
+	font-family: "georgia" , cursive;
+	font-weight: 100;
+	font-size: 18px;
+}
+
+h1{
+    background-color:red;
+    display: inline-block;
+    padding-bottom: 10px; 
+    padding-top:   10px;
+    padding-left:  150px ;
+    padding-right:  150px;
+
+} 
+
+
+
+h2{
+    background-color:red;
+    display: inline-block;
+    padding-bottom: 10px; 
+    padding-top:   10px;
+    padding-left:  100px ;
+    padding-right:  100px;
+
+}
+
+
+b{ 
+	 background-color:grey;
+    display: inline-block;
+    padding-bottom: 10px; 
+    padding-top:   10px;
+    padding-left:  100px ;
+    padding-right:  100px;
+
+
+
+
+ }
+
+
+
+
